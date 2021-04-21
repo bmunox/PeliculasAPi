@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\brimu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\brimu\\.nuget\\packages"
+    ]
+  }
+}
